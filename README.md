@@ -14,4 +14,4 @@ Users struggle to identify sophisticated phishing emails and targeted threats in
 Public repository for CSC649 Assignment 1.
 
 ## Author
-Amir Arsyad
+Amir
